@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "alpinejs": "^3.14.1",
+    "feather-icons": "^4.29.2"
+  }
+}
